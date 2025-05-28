@@ -215,7 +215,7 @@ class IndexService:
 image_url = "https://raw.githubusercontent.com/einavbs1/HW2_Cloud/main/Corelia_Logo_Final.png"
 
 logo_widget = widgets.HTML(
-    value=f'<img src="{image_url}" width="500" height="400">'
+    value=f'<img src="{image_url}" width="500" height="380">'
 )
 
 
